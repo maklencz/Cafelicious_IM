@@ -18,5 +18,5 @@ https://fonts.googleapis.com/css2?family=PT+Sans+Narrow&display=swap
 
 ## Extern verwendete Bilder 
 
-Titelbild (Kaffeemaschine) https://unsplash.com/photos/MeSbZa3fnKo
+Titelbild (Kaffeemaschine Barista) https://unsplash.com/photos/MeSbZa3fnKo
 Missionstatement (Löffel) 
