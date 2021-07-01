@@ -19,4 +19,6 @@ https://fonts.googleapis.com/css2?family=PT+Sans+Narrow&display=swap
 ## Extern verwendete Bilder 
 
 Titelbild (Kaffeemaschine Barista) https://unsplash.com/photos/MeSbZa3fnKo
-Missionstatement (Löffel) 
+Missionstatement (Löffel) https://www.pexels.com/de-de/foto/lebensmittel-holz-koffein-kaffee-7658156/
+
+
