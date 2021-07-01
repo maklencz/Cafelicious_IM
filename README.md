@@ -17,3 +17,6 @@ https://fonts.googleapis.com/css2?family=Roboto:wght@100;300&display=swap
 https://fonts.googleapis.com/css2?family=PT+Sans+Narrow&display=swap
 
 ## Extern verwendete Bilder 
+
+Titelbild (Kaffeemaschine) https://unsplash.com/photos/MeSbZa3fnKo
+Missionstatement (Löffel) 
